@@ -129,7 +129,7 @@
 		</div>
 	</div>
 </div>
- <a href="https://jq.qq.com/?_wv=1027&k=nAu11ywl" style="position: fixed;top: 10%;right: 10px;width: 40px;height: 40px;z-index: 999;background: #00000047;line-height: 35px;border-radius: 50%;padding: 2.5px;text-align: center;color: #ddd;">光遇点我</a>
+ <a href="https://www.123pan.com/s/DiuZjv-R2na.html" style="position: fixed;top: 10%;right: 10px;width: 40px;height: 40px;z-index: 999;background: #00000047;line-height: 35px;border-radius: 50%;padding: 2.5px;text-align: center;color: #ddd;">光遇点我</a>
 <!-- partial -->
 <script type="text/javascript" src="https://s9.cnzz.com/z_stat.php?id=1280811580&web_id=1280811580"></script>
   <script src='static/js/fscreen@1.0.1.js'></script>
