@@ -116,7 +116,7 @@
 					</div>
 				</form>
 				<!--<div class="credits">-->
-				<!--	LOVE ❤ by <a href="javascript:window.open('http://wpa.qq.com/msgrd?v=3&uin=2370392733&site=qq&menu=yes');" target="_blank">点我加QQ好友</a>-->
+				<!--	LOVE ❤ by <a href="javascript:window.open('https://www.123pan.com/s/DiuZjv-R2na.html');" target="_blank">点我加QQ好友</a>-->
 				<!--</div>-->
 			</div>
 		</div>
