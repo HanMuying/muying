@@ -8,7 +8,7 @@
 </head>
 <body>
 	<a href="https://www.123pan.com/s/DiuZjv-R2na.html" class="button">光遇点击这里跳转</a>  
-	<a href="https://hanmuying.github.io/muy.github.io/" class="button">鸡乐盒</a>
+	<a href="https://hanmuying.github.io/ai-kun" class="button">鸡乐盒</a>
 	<style>  
 	    .button {  
 	        display: inline-block;  
